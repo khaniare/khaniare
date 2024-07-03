@@ -1,3 +1,5 @@
+<pre>
+  
 - 👋 Hi, I’m @khaniare
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Flutter
@@ -7,10 +9,11 @@
 - Used github before // June 12, 2023
 
   learned the following |
-  
-  /HTML
-    /CSS
+  /HTML <br>
+    /CSS <br>
       /JS (animation)
+    
+  </pre>
   ________________________________________
 
   ![khaniare's Stats](https://github-readme-stats.vercel.app/api?username=khaniare&theme=onedark&show_icons=true&hide_border=false&count_private=true)
