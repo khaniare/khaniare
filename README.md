@@ -2,18 +2,26 @@
   
 - 👋 Hi, I’m @khaniare
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 - 📫 How to reach me | cannot right now
 
 
 - Used github before // June 12, 2023
 
   learned the following |
+  
   /HTML <br>
     /CSS <br>
       /JS (animation)
     
-  </pre>
+
+  half learned |
+
+  /FLUTTER <br>
+   /JAVASCRIPT (fully) <br>
+
+    </pre>
+
   ________________________________________
 
   ![khaniare's Stats](https://github-readme-stats.vercel.app/api?username=khaniare&theme=onedark&show_icons=true&hide_border=false&count_private=true)
