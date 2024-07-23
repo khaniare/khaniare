@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 📫 How to reach me | cannot right now
-- 🈺 I', currently working on the repository, Vylara
+- 🈺 I'm currently working on the repository, Vylara
 
 - Used github before // June 12, 2023
 
@@ -18,7 +18,7 @@
   half learned |
 
   /FLUTTER <br>
-   /JAVASCRIPT (fully) <br>
+   /JAVASCRIPT <br>
 
     </pre>
 
